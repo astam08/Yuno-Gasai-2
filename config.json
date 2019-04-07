@@ -1,8 +1,8 @@
 {
-    "discord.token": "INSERT_BOT_TOKEN_HERE",
+    "discord.token": "NTYyNTI5MzkzNjAwMTAyNDAx.XKpKDw._LXHI9TQyVpFQLm8FAT0E_1eEXc",
     "errors.dropon": {
         "guild": "Guild ID",
-        "channel": "Channel Name"
+        "channel": "edit bot"
     },
     "logging.hidden-groups": "[]",
     "logging.show-time": true,
